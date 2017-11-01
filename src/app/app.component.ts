@@ -11,6 +11,6 @@ import { Component } from '@angular/core';
     <router-outlet></router-outlet>
   `
 })
-export class AppComponent implements OnInit {
+export class AppComponent {
   title = 'Tour of Heros';
 }
